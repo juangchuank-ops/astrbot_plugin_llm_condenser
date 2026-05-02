@@ -1,1 +1,0 @@
-{"debug":{"default":false,"description":"调试模式","hint":"开启后在控制台输出每次简化的详细日志","type":"bool"},"enabled":{"default":true,"description":"启用插件","hint":"关闭后将暂停所有LLM回复简化功能","type":"bool"},"max_length":{"default":800,"description":"最大回复长度（字符）","hint":"简化后的LLM回复超过此长度将被截断","maximum":5000,"minimum":100,"type":"int"}}
