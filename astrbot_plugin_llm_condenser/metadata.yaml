@@ -1,0 +1,9 @@
+name: astrbot_plugin_llm_condenser
+desc: 自动简化LLM回复信息，去除冗余保留核心内容与情绪表达
+help: /condenser 查看插件状态和配置
+version: v1.0.0
+author: Administrator
+repo: ""
+display_name: LLM 回复简化器
+support_platforms:
+  - aiocqhttp
